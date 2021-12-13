@@ -2,7 +2,7 @@
 
  Altere a Flag abaixo com sua URL do seu usuário do Github
 
-![Pipeline Status](https://github.com/devops-danielandre/DevOpsLab-HelloWorld/actions/workflows/pipeline.yml/badge.svg) 
+![Pipeline Status](https://github.com/Danielandre1987/DevOpsLab-HelloWorld/blob/main/static/imgs/4linux.jpg) 
 
 
 ## Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps
